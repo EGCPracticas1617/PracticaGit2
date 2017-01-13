@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-(esto es una modificacion)
-(esto es una modificacion)
-(esto es una modificacion)
-(esto es una modificacion)
-(esto es una modificacion)
-(esto es una modificacion)
-(esto es una modificacion)
-=======
 modificado archivo a
 dasdasd
 dsadasdsa
@@ -14,4 +5,11 @@ dfghdfghdfhgfmtgutdsad
 ddw 
 asddsa
 modificado en b02
->>>>>>> b43009cf419b6ad0a6ceafd92dd07db5fa31bdda
+
+(esto es una modificacion)
+(esto es una modificacion)
+(esto es una modificacion)
+(esto es una modificacion)
+(esto es una modificacion)
+(esto es una modificacion)
+(esto es una modificacion)
