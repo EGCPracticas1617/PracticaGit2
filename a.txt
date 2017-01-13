@@ -1,1 +1,6 @@
 Soy el archivo a.txt
+Modificado en rama b02
+asfsfdf
+sdgfdgdgdgg
+sdgfsdfsdf
+sdfsdfsdf a.txt
